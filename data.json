@@ -578,8 +578,8 @@
   {
     "Asset": "Classify - Hyper Casual Full Game Project",
     "Publisher": "Abdullah Aldandarawy",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6bff9028-8ddb-46d4-bfe4-f0e2b7829b79.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/123456"
   },
@@ -616,7 +616,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/package/62300"
   },
   {
-    "Asset": "Elegant Mobile Ul",
+    "Asset": "Elegant Mobile UI",
     "Publisher": "Ada Wang",
     "Price": "$8",
     "IsFree": false,
@@ -624,7 +624,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/2d/gui/elegant-mobile-ui-37494"
   },
   {
-    "Asset": "Metal Storm Ul pack",
+    "Asset": "Metal Storm UI pack",
     "Publisher": "Ada Wang",
     "Price": "$8",
     "IsFree": false,
@@ -658,8 +658,8 @@
   {
     "Asset": "Native UI - Mobile UI Kit (Muk V2)",
     "Publisher": "Aitezaz Tech",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$58.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c5d6c8f5-835b-4927-afd2-4f0624988aae.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/313350"
   },
@@ -1762,8 +1762,8 @@
   {
     "Asset": "PlayText - Dialogue Node Based Editor",
     "Publisher": "BioFlameStudio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$7.88",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/4a42a4bd-bfc8-42e7-816c-92da8a108c0e.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/170799"
   },
@@ -2242,8 +2242,8 @@
   {
     "Asset": "Pixel Art Platformer - Dungeon Pixel Art Monster - Dungeon",
     "Publisher": "Cainos",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$19.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/8d14cf58-c555-4b75-bca8-af49cf9ea23f.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/2d/environments/pixel-art-platformer-dungeon-237109"
   },
@@ -2386,8 +2386,8 @@
   {
     "Asset": "Arc_A137_007",
     "Publisher": "ChenMengLong",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/f148377b-d787-413b-a459-236f34357ec8.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/3d/environments/arc-ai37-007-126328"
   },
@@ -2762,8 +2762,8 @@
   {
     "Asset": "UlAnimation-Simple visualization",
     "Publisher": "CrabSaberV",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/daab7863-970a-434a-9cdc-d1d70cf98332.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/tools/gui/uianimation-simple-visualization-320758"
   },
@@ -2818,8 +2818,8 @@
   {
     "Asset": "Flappy Cube",
     "Publisher": "Cube Game",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b5d87fc5-69f6-4d55-93ad-8da1b7423924.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/279774"
   },
@@ -2922,8 +2922,8 @@
   {
     "Asset": "Chinoiserie 24+Character Pack",
     "Publisher": "Deep SeaStudio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c0aecd98-83cb-4067-ae47-2e74e82e6fbf.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/2d/characters/chinoiserie-24-character-pack-290662"
   },
@@ -3018,8 +3018,8 @@
   {
     "Asset": "Color Box - UV Free Unlit Color Gradient Shader",
     "Publisher": "Digicrafts",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$19.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/92c7d6de-c1a2-41fa-a3f9-90215ff49a0f.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/vfx/shaders/color-box-uv-free-unlit-color-gradient-shader-67924"
   },
@@ -3064,10 +3064,10 @@
     "AssetURL": "https://assetstore.unity.com/packages/package/50608"
   },
   {
-    "Asset": "Competitive Combat Al",
+    "Asset": "Competitive Combat AI",
     "Publisher": "Double Kill",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$44.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9ac72e37-51b5-47ec-8378-8aaad3821f48.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/templates/systems/competitive-combat-ai-22364"
   },
@@ -3360,7 +3360,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/package/316918"
   },
   {
-    "Asset": "Characters_Japanese style7 Cartoon",
+    "Asset": "Cartoon Characters_Japanese style7",
     "Publisher": "Dreams Studio",
     "Price": "$35",
     "IsFree": false,
@@ -3368,7 +3368,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/cartoon-characters-japanese-style7-317003"
   },
   {
-    "Asset": "Characters_Japanese style8 Cartoon",
+    "Asset": "Cartoon Characters_Japanese style8",
     "Publisher": "Dreams Studio",
     "Price": "$35",
     "IsFree": false,
@@ -3376,7 +3376,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/cartoon-characters-japanese-style8-317090"
   },
   {
-    "Asset": "Characters_Japanese style9 Cartoon",
+    "Asset": "Cartoon Characters_Japanese style9",
     "Publisher": "Dreams Studio",
     "Price": "$35",
     "IsFree": false,
@@ -3384,7 +3384,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/cartoon-characters-japanese-style9-324041"
   },
   {
-    "Asset": "Characters_Japanese style10 Cartoon",
+    "Asset": "Cartoon Characters_Japanese style10",
     "Publisher": "Dreams Studio",
     "Price": "$35",
     "IsFree": false,
@@ -3466,8 +3466,8 @@
   {
     "Asset": "2D Pixel Effect: Attack&Skill",
     "Publisher": "Dreamy PixelArt",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$18.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/506e479b-9649-4f9a-9d3e-5fae72ab38f0.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/196945"
   },
@@ -3490,8 +3490,8 @@
   {
     "Asset": "PixelArt_Enemy_Snake",
     "Publisher": "Dreamy PixelArt",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/8c8a9cba-94dd-40fd-9aca-7b7ebaf08ef0.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/233855"
   },
@@ -3538,16 +3538,16 @@
   {
     "Asset": "2D_Pixel art_Village_Ourdoor",
     "Publisher": "Dreamy PixelArt",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/601bb480-678e-4550-a6f0-802b5e2ad310.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/188565"
   },
   {
     "Asset": "2D_Pixel art_Village_Interiors",
     "Publisher": "Dreamy PixelArt",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bdbf238f-490c-4859-afed-f81fc99d6d92.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/198513"
   },
@@ -3618,8 +3618,8 @@
   {
     "Asset": "Missile Models 200 Smoke & Fog & Mist Texture",
     "Publisher": "Duckweed Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/18dfaf04-3586-4a74-a327-97adc16a38bf.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/275875"
   },
@@ -3674,16 +3674,16 @@
   {
     "Asset": "Sci-Fi UI Subtitles Collection",
     "Publisher": "Duckweed Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2e8fef6e-e4c0-497c-a98b-73ed3629fa45.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/280976"
   },
   {
     "Asset": "Sci-Fi UI Title Collection",
     "Publisher": "Duckweed Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/68621fb6-ff2a-4ec7-bd89-5d07d03ed5fa.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/280974"
   },
@@ -3706,8 +3706,8 @@
   {
     "Asset": "Sci-Fi UI Lamstand Collections",
     "Publisher": "Duckweed Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/8a3e749c-09c3-4fe6-985f-ced37608e002.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/280964"
   },
@@ -3730,16 +3730,16 @@
   {
     "Asset": "Sci-Fi UI Arrow Collection",
     "Publisher": "Duckweed Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2846929e-f3bf-47ce-ab4e-24cca2046e90.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/280892"
   },
   {
     "Asset": "Sci-Fi UI Frame Collection",
     "Publisher": "Duckweed Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$19.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/df8f53f4-5ebe-4bba-9765-a562fca09c4a.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/242817"
   },
@@ -3858,8 +3858,8 @@
   {
     "Asset": "UI & Mesh Frame FX (easier to create) AIl Frame FX In One",
     "Publisher": "Duckweed Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$14.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d143678a-9965-4d0c-a51f-258f52d68b25.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/293497"
   },
@@ -3914,8 +3914,8 @@
   {
     "Asset": "Portal Beam FX",
     "Publisher": "Duckweed Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/7f230f2f-087f-44da-9f56-a92466572c3c.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/285499"
   },
@@ -4490,8 +4490,8 @@
   {
     "Asset": "Medieval Fantasy RPG - Pixel Character Icons",
     "Publisher": "Ever_Pixels",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/cdaaad54-3b76-47df-b7f9-412d192cf35a.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/329864"
   },
@@ -4762,24 +4762,24 @@
   {
     "Asset": "FMETP STREAM 4",
     "Publisher": "Frozen Mist",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "Unknown",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ee20f119-e3f0-4b82-a5ff-d724079f7fcc.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/282061"
   },
   {
     "Asset": "FM Network 4.0",
     "Publisher": "Frozen Mist",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "Unknown",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/7833f4f8-35bf-409e-b935-6659ebc62a1a.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/282469"
   },
   {
     "Asset": "FM WebSocket 4.0",
     "Publisher": "Frozen Mist",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "Unknown",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/fcb94278-3677-48a0-b447-f9e5fc0673c1.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/280159"
   },
@@ -5338,8 +5338,8 @@
   {
     "Asset": "Microphone Low Poly 3D Model",
     "Publisher": "GoodMeshStudio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/76881631-87e2-4d21-b507-3cee74f6da7b.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/166727"
   },
@@ -5650,8 +5650,8 @@
   {
     "Asset": "Puzzle Story Book",
     "Publisher": "HitCode",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$20.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d6176c73-9c4f-4327-a4d4-58347e38a4c0.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/198153"
   },
@@ -6266,8 +6266,8 @@
   {
     "Asset": "uTween for UGUI",
     "Publisher": "Itachy Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c55f542b-1138-4b32-b21a-98c8e25f910f.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/62466"
   },
@@ -6386,8 +6386,8 @@
   {
     "Asset": "AJ_Tiny Touch",
     "Publisher": "James Ou",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$8.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/8725989e-8c66-4c9c-b58d-ad5fd3b56658.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/142548"
   },
@@ -6466,8 +6466,8 @@
   {
     "Asset": "3D Stylized Kitchens and Living Rooms Bundle Pack",
     "Publisher": "Jane Art Studios",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$39.90",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/a0628a55-d4ea-4ff8-a271-3430150b19c1.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/248167"
   },
@@ -6658,8 +6658,8 @@
   {
     "Asset": "Bones And Remains",
     "Publisher": "Jesse Mario",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$6.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6946248c-2d32-48a6-bf50-1804ef8b5dcc.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/249320"
   },
@@ -6674,40 +6674,40 @@
   {
     "Asset": "Christmas Trees",
     "Publisher": "Jesse Mario",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$12.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/47656b80-e010-4017-83a4-fb986d4c59fe.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/291100"
   },
   {
     "Asset": "Terrain Grass Pack",
     "Publisher": "Jesse Mario",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$6.88",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/de4b4914-063e-463d-a993-06d87315decc.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/244379"
   },
   {
     "Asset": "Stylized Fantasy Plant",
     "Publisher": "Jesse Mario",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$18.86",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/cb16cc2f-eca2-42b4-9985-24e85e07ded5.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/310357"
   },
   {
     "Asset": "Versatile Grasses",
     "Publisher": "Jesse Mario",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.55",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/f39af293-e28c-4f69-b108-fe6e7fe6c040.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/244184"
   },
   {
     "Asset": "Bush And Berry",
     "Publisher": "Jesse Mario",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.96",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/7a3bfa19-24bd-4628-ae61-d237e703a352.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/247188"
   },
@@ -6762,16 +6762,16 @@
   {
     "Asset": "VR Brush",
     "Publisher": "Jimmy Gao",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$6.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/4cea2195-c77d-485c-9e6b-b9dcfb7b10ff.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/101781"
   },
   {
     "Asset": "Scifi -Hologram / x-ray silhouestte shader Collection",
     "Publisher": "Jimmy Gao",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/93bbe8c1-a1bf-4806-9851-47f7b8f0aafe.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/111205"
   },
@@ -6850,8 +6850,8 @@
   {
     "Asset": "Sci-Fi UIs",
     "Publisher": "Jupiter18",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/f53e9ac1-ed92-4515-8b7f-1af5d2720bba.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/291629"
   },
@@ -6922,8 +6922,8 @@
   {
     "Asset": "3To2SnapShot",
     "Publisher": "Keyboard Meow",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d046478f-84ae-47c8-bf85-ad0c9d025649.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/118481"
   },
@@ -7162,8 +7162,8 @@
   {
     "Asset": "Easy SceneMarker",
     "Publisher": "LastWizard",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b3e3b3d2-221a-421d-b749-a57ad01988b0.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/326550"
   },
@@ -7346,8 +7346,8 @@
   {
     "Asset": "Polygon Characters_Undead2",
     "Publisher": "Linesources Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$37.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9913ecc0-84fb-4454-a79d-026c69e8dcfd.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/289049"
   },
@@ -7370,8 +7370,8 @@
   {
     "Asset": "PolygonCharacters-Fantasy Chinese StyleGenerals",
     "Publisher": "Linesources Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$34.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/051433e6-36c2-43db-bbf4-08d37888e9c6.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/280750"
   },
@@ -7906,16 +7906,16 @@
   {
     "Asset": "Quick Drag & Drop Level Placer",
     "Publisher": "MBS Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$50.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bb55f9bc-0cf7-4217-b742-3ead7e5789ce.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/351352"
   },
   {
     "Asset": "Root Select Locker Faster Hierarchy Workflow",
     "Publisher": "MBS Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$20.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c4211b33-af4c-47cc-80c2-39a11ee4e137.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/351036"
   },
@@ -8122,8 +8122,8 @@
   {
     "Asset": "Flex Drag Text UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$8.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b424ac3b-f491-4933-9d55-acff16e020bb.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/167017"
   },
@@ -8138,24 +8138,24 @@
   {
     "Asset": "Image Circle Transition UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/35de13aa-375d-4061-8983-1964f01bb7f9.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/166945"
   },
   {
     "Asset": "Rolling Blind Image UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/3c33eb55-cbec-4286-a12c-74413bd85658.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/167886"
   },
   {
     "Asset": "Tags Input Field UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$6.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/7a0b2ace-9304-4919-a709-3d8b27e9b890.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/167983"
   },
@@ -8170,8 +8170,8 @@
   {
     "Asset": "Accordion Image UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/450db987-0489-4c9c-b2a9-f02bec48e368.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/169406"
   },
@@ -8194,16 +8194,16 @@
   {
     "Asset": "Falling Objects UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/24bd0395-ccf5-417d-a5ff-1505d3adbbdf.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/174128"
   },
   {
     "Asset": "Ghosting Image UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6bcbec52-cd03-4d3b-9ccc-b5dbbf48c509.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/174805"
   },
@@ -8218,32 +8218,32 @@
   {
     "Asset": "Like and Gift Button UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/21cc0326-bb2e-47a7-9c8d-2bb46e8faa9e.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/176515"
   },
   {
     "Asset": "Infinite Zoom Out Text UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$6.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/3ed75d56-6970-4df0-9b02-6a4fbf120d37.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/176943"
   },
   {
     "Asset": "Retrospective Timeline UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$7.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/1dc4d984-fe0b-43d0-a803-1ffb6c0dd7f4.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/168185"
   },
   {
     "Asset": "Explosion Switch Image UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$6.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2fbc0b41-903d-44bc-84a9-a6b53c01f808.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/179044"
   },
@@ -8258,40 +8258,40 @@
   {
     "Asset": "Spiral Rotation Text UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$8.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/1282eb62-4e1c-4493-9934-948071397632.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/186636"
   },
   {
     "Asset": "Game Card Holographic UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$6.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/e300512e-7ec6-40ce-8ea2-0848dfecd2a3.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/187387"
   },
   {
     "Asset": "2D Displacement Mapping UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9c6c38fc-ce80-42eb-b5bd-4992aa851d1a.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/188208"
   },
   {
     "Asset": "Plasma Effect UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$7.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ae3ead0b-c106-40a7-ac6a-6f3f50f96dea.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/188278"
   },
   {
     "Asset": "Smoke Background UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b3690650-6ba2-4700-9872-358387631794.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/187921"
   },
@@ -8322,16 +8322,16 @@
   {
     "Asset": "Waves UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/36df06f4-914e-46c1-b06e-55d72fe9f754.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/173558"
   },
   {
     "Asset": "Masonry Flow Layout UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/76cb468b-734a-43ac-af73-55040d91dd7e.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/258312"
   },
@@ -8378,16 +8378,16 @@
   {
     "Asset": "Navigation Treeview UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2e2e1db8-e164-475d-a9fc-54aa805424e7.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/258247"
   },
   {
     "Asset": "Chat UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/31841b1b-50ba-46f1-892e-a5b981fbeeba.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/169082"
   },
@@ -8418,8 +8418,8 @@
   {
     "Asset": "Blur Button UI",
     "Publisher": "Maything Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/a39cf39e-324a-4927-a801-12493de2505c.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/179531"
   },
@@ -8986,8 +8986,8 @@
   {
     "Asset": "Cute style UI and icons",
     "Publisher": "MiFunStudio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.80",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/345908ce-cc71-47b4-a852-0c2fa69bd1c0.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/73206"
   },
@@ -9506,8 +9506,8 @@
   {
     "Asset": "CMD Gomoku | Gomoku AI",
     "Publisher": "Moenen",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d9f62c83-c2b2-4578-9c9a-3aa6de181e77.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/109676"
   },
@@ -9954,8 +9954,8 @@
   {
     "Asset": "Ray Tracing2D",
     "Publisher": "Multicrash",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/22e352dd-b513-4daa-83a5-0c98b642d1f5.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/116248"
   },
@@ -10154,8 +10154,8 @@
   {
     "Asset": "Hide GameObject in Hierarchy",
     "Publisher": "NOTT",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c1fdd3aa-930f-4cd5-bdb8-f8f5ef02c634.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/287891"
   },
@@ -10178,8 +10178,8 @@
   {
     "Asset": "iOS Native Media",
     "Publisher": "Native Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$30.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/0ec0e09c-e281-41e5-82eb-bd299be031ad.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/200979"
   },
@@ -10426,16 +10426,16 @@
   {
     "Asset": "Essentials - General Settings",
     "Publisher": "OmnInteractive",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/baeefa19-7f36-4716-ac5f-371b08cc9dbf.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/302969"
   },
   {
     "Asset": "UTeleApp - Tools for Telegram Mini Apps",
     "Publisher": "OmnInteractive",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/dfbb5aca-f70f-44f3-a97e-d0e264ef956a.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/300734"
   },
@@ -10570,8 +10570,8 @@
   {
     "Asset": "RPG Game UI",
     "Publisher": "Pixel Cattle Games",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$12.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/3b59bed4-83bf-4b41-a02d-e41d9b125d9d.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/99453"
   },
@@ -10650,8 +10650,8 @@
   {
     "Asset": "Pixel Warrior",
     "Publisher": "Pixel Cattle Games",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$10.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/e3adc834-38a6-4a6f-97db-70d50dc101a0.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/103561"
   },
@@ -10944,7 +10944,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/package/103513"
   },
   {
-    "Asset": "Pixel Alchemist",
+    "Asset": "Pixel AIchemist",
     "Publisher": "Pixel Cattle Games",
     "Price": "$10",
     "IsFree": false,
@@ -11474,8 +11474,8 @@
   {
     "Asset": "Galactic Survivor: Top-Down Shoot'em Up Survival Game Template",
     "Publisher": "PixelNinja",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$99.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/dd38dbd2-aa6e-4fcd-a97e-23b032207bd8.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/308465"
   },
@@ -11632,7 +11632,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/package/8041"
   },
   {
-    "Asset": "Realistic Alien Plants",
+    "Asset": "Realistic AIien Plants",
     "Publisher": "Potato123",
     "Price": "$10",
     "IsFree": false,
@@ -11866,8 +11866,8 @@
   {
     "Asset": "NewChineseLiving Room",
     "Publisher": "QD.Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$8.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/104d8bad-809b-402b-b2fb-4c3ee1907b1a.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/262616"
   },
@@ -12130,16 +12130,16 @@
   {
     "Asset": "4300 Cartoon UI Buttons",
     "Publisher": "RainbowArt",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6e5f0959-c5c9-4d1b-b6e7-82be7ef7fd3b.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/36310"
   },
   {
     "Asset": "5000 Flat UI Buttons",
     "Publisher": "RainbowArt",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9f3e5413-c1e5-4b8a-aa4f-f7530f20abe0.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/37251"
   },
@@ -12354,8 +12354,8 @@
   {
     "Asset": "Class Room Environment",
     "Publisher": "Rip Muxiv",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$19.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ecd6958c-bb6d-4819-bd7c-0c79bc2b95f5.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/334912"
   },
@@ -12370,16 +12370,16 @@
   {
     "Asset": "Simple Magnifying Glass Shader",
     "Publisher": "Rip Muxiv",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/46e03cf7-06c2-4fdc-becc-5d588c197ed1.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/285715"
   },
   {
     "Asset": "RPSimpleWater",
     "Publisher": "Rip Muxiv",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$27.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bb8aca90-be47-47c6-9a75-59d452ff83af.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/306566"
   },
@@ -12394,16 +12394,16 @@
   {
     "Asset": "LightMapToVertexColor",
     "Publisher": "Rip Muxiv",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ee2ef5a3-97fb-42ee-87e3-bbcaa070142f.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/293914"
   },
   {
     "Asset": "BakeTextureToVertexColor",
     "Publisher": "Rip Muxiv",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/7ab2c98f-d55f-4e58-9671-7b9d02a05c7f.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/311394"
   },
@@ -12962,8 +12962,8 @@
   {
     "Asset": "Generate Code Manager",
     "Publisher": "Rong Rong",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$29.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/06c198bd-37e8-47b5-9192-08a15387201e.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/164877"
   },
@@ -12978,8 +12978,8 @@
   {
     "Asset": "Survivors Roguelike Kit",
     "Publisher": "RoofenGame",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$29.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/786939cb-9541-41e9-86c9-3f1d7d9c5234.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/317848"
   },
@@ -13018,8 +13018,8 @@
   {
     "Asset": "RuntimeMap Maker3D-Pro",
     "Publisher": "RuntimeCube",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$25.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/f9376f97-159b-45fc-b4bf-1aea9c862a11.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/201818"
   },
@@ -13034,8 +13034,8 @@
   {
     "Asset": "Realistic Western Fantasy UI Kit",
     "Publisher": "Ryan.Lan",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/cb080a0f-6408-4f37-8878-8c7e1cc1edfa.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/341074"
   },
@@ -13354,24 +13354,24 @@
   {
     "Asset": "World War 1 German trench sets",
     "Publisher": "Shanghai Windy",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$6.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bcf8251b-f742-447f-92b6-05997573013e.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/99333"
   },
   {
     "Asset": "France World War 1 Tank FT-17",
     "Publisher": "Shanghai Windy",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/0dec2771-b871-4680-8b1f-b540c3a695dc.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/101857"
   },
   {
     "Asset": "Scene Build System",
     "Publisher": "Shanghai Windy",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/4c529699-126b-4470-a033-28fd274e4bf9.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/80529"
   },
@@ -13426,8 +13426,8 @@
   {
     "Asset": "Laya2Unity",
     "Publisher": "Sidney Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/850ca326-4c72-4fb5-bc22-1c03a572f53d.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/275287"
   },
@@ -13442,8 +13442,8 @@
   {
     "Asset": "SS1_Bandit_Characters Package_PBR",
     "Publisher": "SimpleColor Studios",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$7.50",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c3084433-8552-4d44-83ab-a24ae74ade36.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/216183"
   },
@@ -13554,8 +13554,8 @@
   {
     "Asset": "Excel2Lua",
     "Publisher": "Small & Cheap, But Useful",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$10.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/44eb431b-47e5-4ed4-b8eb-7f33c251b595.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/76968"
   },
@@ -13850,8 +13850,8 @@
   {
     "Asset": "The Fairy Flower",
     "Publisher": "Stone Snail",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$10.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9df8fc22-b3df-48bc-8f46-cec55861390d.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/47523"
   },
@@ -14074,8 +14074,8 @@
   {
     "Asset": "Sci-Fi Space Skybox Pack -1",
     "Publisher": "Swan Animations",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$10.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/1d5c045e-fb63-428b-85be-a2a336e03484.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/36270"
   },
@@ -14296,7 +14296,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/package/99013"
   },
   {
-    "Asset": "Genetic Algorithm",
+    "Asset": "Genetic AIgorithm",
     "Publisher": "Sword-Master",
     "Price": "$14.99",
     "IsFree": false,
@@ -15032,7 +15032,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/package/241533"
   },
   {
-    "Asset": "Classic 3D Pixel Alphabet and Number",
+    "Asset": "Classic 3D Pixel AIphabet and Number",
     "Publisher": "TingLuke",
     "Price": "$4.99",
     "IsFree": false,
@@ -15040,7 +15040,7 @@
     "AssetURL": "https://assetstore.unity.com/packages/package/74746"
   },
   {
-    "Asset": "Classic 3D Alphabet",
+    "Asset": "Classic 3D AIphabet",
     "Publisher": "TingLuke",
     "Price": "$4.99",
     "IsFree": false,
@@ -15290,8 +15290,8 @@
   {
     "Asset": "Skill icons V3",
     "Publisher": "Tom_Wood",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/276eb00e-5cdd-4f20-b8ee-2d039fca5f6a.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/331084"
   },
@@ -15882,8 +15882,8 @@
   {
     "Asset": "TopDown ShootGameKit",
     "Publisher": "U3DC",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/dae848e2-0250-42bd-8a07-e769f98029b7.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/62072"
   },
@@ -16498,8 +16498,8 @@
   {
     "Asset": "Casual / Cartoon Game UI with SFX",
     "Publisher": "Volthes",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d3cb14c2-4370-4558-83c6-323c74b3203b.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/95676"
   },
@@ -16538,8 +16538,8 @@
   {
     "Asset": "Space Fighter 2015(Char_Enemy_Shady)",
     "Publisher": "Wang Yan",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/76352e6c-fb24-4467-b4ad-e284659a5bcc.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/38187"
   },
@@ -16626,8 +16626,8 @@
   {
     "Asset": "CombatEditor",
     "Publisher": "WhiteBox Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$10.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/408d8ca4-300c-45de-9e57-500133d97f3b.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/252420"
   },
@@ -16834,112 +16834,112 @@
   {
     "Asset": "Mesh Explosion Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ac5e5eac-a161-4f6b-8bf0-4d635976831b.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/267237"
   },
   {
     "Asset": "Control 3D Game Objects",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$7.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/6ec7c7ef-8414-468b-909a-d47e4c1eeae7.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/269012"
   },
   {
     "Asset": "Outline Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2e050d3f-b1c5-4e6b-9f8b-84d33318e620.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/275797"
   },
   {
     "Asset": "Elecctric Shock Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d77b2299-1d3c-4c13-8394-3681162691fe.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/289162"
   },
   {
     "Asset": "Pixelated Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/91135525-0d84-42ee-9423-5c3cab5a4d25.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/281251"
   },
   {
     "Asset": "Smear Effect Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2e476d9e-0e03-499a-8d92-1307871da2d0.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/293435"
   },
   {
     "Asset": "Lightning Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/58e3d15c-97af-4bdb-a20b-a7b48eb8b1ea.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/299593"
   },
   {
     "Asset": "Ghost Trail Effect",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/5c6ef8e9-5525-4522-896b-d116754d4972.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/262593"
   },
   {
     "Asset": "Burning Effect Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/59af946e-a4ab-41f6-a7a1-2a198d3d5211.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/335796"
   },
   {
     "Asset": "Glitch Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/580cacbd-315f-47cd-abdd-e252d2f0b5c1.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/285632"
   },
   {
     "Asset": "Chromatic Aberration Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2786c8a1-b968-451c-88e9-76c21ff4dc18.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/290939"
   },
   {
     "Asset": "Background Blur Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9a4eeadb-cac8-4c1e-b750-e91e100b3e44.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/292175"
   },
   {
     "Asset": "Blur Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/8caea90d-d9c0-4ed2-af82-0f98a0cdb4f0.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/287833"
   },
   {
     "Asset": "Melting Tool",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/a69be082-0c6d-47e4-a080-527f41ca23b7.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/303507"
   },
@@ -16954,8 +16954,8 @@
   {
     "Asset": "Toon & Ouline Effect",
     "Publisher": "Wu Haipeng",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/4f2c1585-44ed-468b-becf-9c1fb4409688.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/319207"
   },
@@ -17026,8 +17026,8 @@
   {
     "Asset": "Fantasy Style Environment Art Pack II",
     "Publisher": "XCYeStudio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$29.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/4e01814b-aad4-42e9-a8e3-2538323a6723.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/287855"
   },
@@ -17298,8 +17298,8 @@
   {
     "Asset": "PBR Living Room Furniture Pack - Vol1",
     "Publisher": "Xiao Studio",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9ca7771c-c8b2-4b0b-b1b1-c1b55717a2a3.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/272969"
   },
@@ -17682,16 +17682,16 @@
   {
     "Asset": "Host Migration",
     "Publisher": "ZXF",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/bf4c405a-8c63-4bb0-a38c-88299b599ca1.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/329312"
   },
   {
     "Asset": "UCharts",
     "Publisher": "Zaijing Wang",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/7aaf29a0-9e2e-46f2-b080-97511fef04ff.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/95073"
   },
@@ -18322,8 +18322,8 @@
   {
     "Asset": "Beyond The Clouds",
     "Publisher": "eebeeGame",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/03fc4486-5e2f-4008-94e9-53afb9501005.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/118044"
   },
@@ -18594,8 +18594,8 @@
   {
     "Asset": "UI mask blur",
     "Publisher": "iowen",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$15.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/8e8f420b-897b-45c8-bc05-f3ae98061f80.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/98662"
   },
@@ -18714,16 +18714,16 @@
   {
     "Asset": "Hololnterior Lite URP",
     "Publisher": "kyxos",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$25.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9776c2aa-a162-45a1-8dcd-c1fb6f7cac6c.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/312207"
   },
   {
     "Asset": "Hololnterior Lite HDRP",
     "Publisher": "kyxos",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$25.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/fc7055c0-3c1b-4b14-b992-ba1de3ec37ff.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/312438"
   },
@@ -18744,10 +18744,10 @@
     "AssetURL": "https://assetstore.unity.com/packages/package/285916"
   },
   {
-    "Asset": "$Runtime~Debugger+lnspector+Terminal+Profiler$",
+    "Asset": "$Runtime~Debugger+Inspector+Terminal+Profiler$",
     "Publisher": "laiting",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$29.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9c349d06-37ff-4233-9626-2d236537ce8d.png?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/271470"
   },
@@ -18818,8 +18818,8 @@
   {
     "Asset": "AI Background Materials-European palace1 (100)",
     "Publisher": "liz",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$5.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/73206ce7-75bd-4147-95df-d51cb6368df7.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/233553"
   },
@@ -19578,8 +19578,8 @@
   {
     "Asset": "CRT Monitor Effect/ Old TV Effect",
     "Publisher": "shironokun",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$4.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/9b655f50-48da-4aba-9588-a7319b4e9d02.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/53205"
   },
@@ -19602,8 +19602,8 @@
   {
     "Asset": "Defense TowerWall",
     "Publisher": "shui861wy",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$14.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/1ea44059-d6ab-4e13-a7c7-998f0f615428.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/192021"
   },
@@ -19642,8 +19642,8 @@
   {
     "Asset": "Cartoon snow pack",
     "Publisher": "shui861wy",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$39.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c7685df7-aa03-4bb2-809e-9d5e28c1f22f.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/134119"
   },
@@ -19706,8 +19706,8 @@
   {
     "Asset": "High Performance Damage Text",
     "Publisher": "sks",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c81fb15a-073c-4abb-9964-836f55e5af66.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/160372"
   },
@@ -20186,8 +20186,8 @@
   {
     "Asset": "Stream Lighting Shaders",
     "Publisher": "ubaojin",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$60.00",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/d47cc00a-a6ed-4a7f-9c0c-731fbd5a82ce.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/53056"
   },
@@ -20234,8 +20234,8 @@
   {
     "Asset": "Physical AI",
     "Publisher": "vrnightcrawler",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$49.99",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/f86bc601-6ca6-4534-a65c-00653c6b1ae9.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/231682"
   },
@@ -21138,8 +21138,8 @@
   {
     "Asset": "AnimaFlowUI",
     "Publisher": "zhaijianwei",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$12.50",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/ba6f705c-52cc-4270-91e8-efbefa48a9a1.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/345346"
   },
@@ -21178,8 +21178,8 @@
   {
     "Asset": "PCSHttp4Unity",
     "Publisher": "zhanghl",
-    "Price": "Free",
-    "IsFree": true,
+    "Price": "$9.90",
+    "IsFree": false,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/c5a5ea72-d430-466c-aa9b-7d8ed02ae7b8.jpg",
     "AssetURL": "https://assetstore.unity.com/packages/package/118232"
   },
