@@ -6,6 +6,19 @@ document.addEventListener('DOMContentLoaded', () => {
     const resultsInfo = document.getElementById('resultsInfo');
 
     let allAssets = [];
+
+    // Observer for fade-in animations
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('visible');
+                observer.unobserve(entry.target);
+            }
+        });
+    }, {
+        rootMargin: '50px 0px',
+        threshold: 0.1
+    });
     let currentFilter = 'all'; // 'all', 'free', 'paid'
     let currentSort = 'default';
     let currentSearch = '';
@@ -115,8 +128,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
         let html = '';
         filtered.forEach((asset, index) => {
-            const delay = (index % 10) * 0.05; // Staggered animation
-
             const isFree = asset.IsFree || asset.Price === 'Free';
             const priceClass = isFree ? 'asset-price free' : 'asset-price';
             const displayPrice = isFree ? 'Free' : (asset.Price || 'Unknown');
@@ -125,8 +136,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const storeUrl = asset.AssetURL || `https://assetstore.unity.com/?q=${encodeURIComponent(asset.Asset)}&orderBy=1`;
 
             html += `
-                <div class="asset-card" style="animation-delay: ${delay}s">
-                    <div class="asset-image" style="background-image: url('${imageSrc}')"></div>
+                <div class="asset-card">
+                    <div class="asset-image">
+                        <img src="${imageSrc}" alt="${asset.Asset}" loading="lazy" onerror="this.src='https://via.placeholder.com/400x200/2a2a35/9ea3b5?text=No+Image'" />
+                    </div>
                     <div class="asset-content">
                         <h3 class="asset-title">${asset.Asset}</h3>
                         <div class="asset-publisher">
@@ -145,6 +158,9 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
         });
         assetGrid.innerHTML = html;
+
+        // Observe newly rendered cards
+        document.querySelectorAll('.asset-card').forEach(card => observer.observe(card));
     }
 
     // Back to Top functionality

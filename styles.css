@@ -333,16 +333,28 @@ input[type="text"]:focus {
     transition: var(--transition-bounce);
     position: relative;
     overflow: hidden;
-    animation: slideUp 0.5s ease forwards;
     opacity: 0;
     transform: translateY(20px);
+    will-change: transform, opacity;
+}
+
+.asset-card.visible {
+    animation: slideUp 0.5s ease forwards;
 }
 
 .asset-image {
     height: 160px;
-    background-size: cover;
-    background-position: center;
     border-bottom: 1px solid var(--border-glass);
+    overflow: hidden;
+    background-color: var(--bg-dark);
+}
+
+.asset-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .asset-content {
