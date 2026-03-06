@@ -1940,7 +1940,7 @@
     "Publisher": "Butterfly World",
     "Price": "$19.99",
     "IsFree": false,
-    "ImageURL": "",
+    "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/35551f5b-d9a7-4962-a738-1821a488ca6f.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/130466"
   },
   {
@@ -6154,8 +6154,8 @@
   {
     "Asset": "(URP) Simple Toon Shader",
     "Publisher": "Indie Game Helper",
-    "Price": "$4.99",
-    "IsFree": false,
+    "Price": "Free",
+    "IsFree": true,
     "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/fd28cfde-2c09-4ebc-bc43-87107b83845f.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/243515"
   },
@@ -12220,7 +12220,7 @@
     "Publisher": "RayMix",
     "Price": "$15",
     "IsFree": false,
-    "ImageURL": "",
+    "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/b07a40bc-afb5-40f5-8fe2-19d539149ed3.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/120976"
   },
   {
@@ -19172,7 +19172,7 @@
     "Publisher": "ptowin",
     "Price": "$10",
     "IsFree": false,
-    "ImageURL": "",
+    "ImageURL": "https://assetstorev1-prd-cdn.unity3d.com/key-image/e5b3dbce-1484-4015-82f6-a269e21b8ef3.jpg?v=1",
     "AssetURL": "https://assetstore.unity.com/packages/package/131456"
   },
   {
