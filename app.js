@@ -63,13 +63,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Sort logic
         filtered.sort((a, b) => {
-            if (currentSort === 'name') {
+            if (currentSort === 'name-asc') {
                 return a.Asset.localeCompare(b.Asset);
-            } else if (currentSort === 'price-low' || currentSort === 'price-high') {
+            } else if (currentSort === 'price-asc' || currentSort === 'price-desc') {
                 const getPrice = (asset) => {
-                    if (asset.IsFree) return 0;
-                    if (asset.Price === 'Unknown' || asset.Price === 'unknown') return -1; // Treat Unknown as lowest for sorting or handle differently
-                    const match = asset.Price.match(/[\d.]+/);
+                    if (asset.IsFree || asset.Price === 'Free' || asset.Price === 'free') return 0;
+                    if (!asset.Price || asset.Price === 'Unknown' || asset.Price === 'unknown') return -1; // Treat Unknown as lowest for sorting or handle differently
+                    const match = String(asset.Price).match(/[\d.]+/);
                     return match ? parseFloat(match[0]) : 0;
                 };
 
@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (priceB === -1 && priceA !== -1) return -1;
                 if (priceA === -1 && priceB === -1) return 0;
 
-                return currentSort === 'price-low' ? priceA - priceB : priceB - priceA;
+                return currentSort === 'price-asc' ? priceA - priceB : priceB - priceA;
             }
             return 0;
         });
