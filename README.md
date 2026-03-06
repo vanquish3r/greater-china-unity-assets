@@ -20,4 +20,4 @@ The asset data is currently compiled into a CSV file (`Assets_being_removed_Marc
 
 ## Disclaimer
 
-This repository and its maintainers are not responsible for the accuracy of the title, author, price, link, or availability of any assets listed. The information provided is based on data generated from scripts and may not reflect the current status on the global Unity Asset Store. Please verify all details directly on the Unity Asset Store.
+This repository and its maintainers are not responsible for the accuracy of the title, author, price, link, or availability of any assets listed. The information provided is based on data generated from scripts and may not reflect the current status on the global Unity Asset Store. Please verify all details directly on the Unity Asset Store. This website uses Google Analytics to track user interaction and overall traffic to improve the user experience.
